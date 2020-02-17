@@ -1,0 +1,13 @@
+El Loro has been created by Stefan Haslinger.
+You can contact him by email: <stefan.haslinger@informatom.com>
+You can find his website containing his physical address and phone number at: https://informatom.com
+
+This app needs permission to record your spoken (spanish) audio, it tries to recognize it
+using Google's Speech to Text service. That means that your voice data is transferred to Google's
+server.
+
+The app does not store that data, it also does not transmit it to any other third party
+than Google. The app does not analyse or track any usage behaviour.
+
+So Google's privacy policy applies for data transferred to them, that is your voice data:
+https://policies.google.com/privacy?hl=en-GB&gl=uk
